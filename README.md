@@ -1,5 +1,5 @@
 # rage-of-ishtar
-Medieval-themed, top-down zombie survival game.
+Go implementation of the "Boids" flocking algorithm developed by Craig Reynolds, with zombies.
 
 ```text
 If you do not open the gate for me to come in,
